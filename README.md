@@ -1,4 +1,9 @@
 # Snakegame
+```
+NOTE: This repository has been cloned from the original private GitLab repo used for development,
+my contributions are under the user 'janos'
+```
+
 A simple snake game created in Java and JavaFX for a university project.
 
 <img src="https://github.com/jnsltk/snakegame/assets/46890983/d2183b44-397f-4a7c-841a-5f7b6ee7adeb" style="width:60%">
